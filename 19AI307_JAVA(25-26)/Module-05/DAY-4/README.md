@@ -71,3 +71,4 @@ public class CurrentThreadInfo {
 
 Thus, the program to determine the priority and name of the current thread is executed successfully.
 
+
